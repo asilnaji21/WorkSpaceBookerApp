@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "176685015524",
+    "project_id": "acthubtraining",
+    "storage_bucket": "acthubtraining.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176685015524:android:df510706c1506dac1e67f1",
+        "android_client_info": {
+          "package_name": "com.example.act_hub_training1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176685015524-ddgf1qn1368jdao6f54k06fu5q4qsqe9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUpSkL3JLMEn8lRXBoTCIctj5JwNlIo2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176685015524-ddgf1qn1368jdao6f54k06fu5q4qsqe9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
